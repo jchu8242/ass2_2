@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "What language are Express apps written in?",
+                "hint": "It starts with a \"J\"",
+                "answer": "JavaScript"
+            },
+            {
+                "question": "What does MEAN stand for?",
+                "hint": "Fully Javascript!",
+                "answer": "MongoDB, Express, Angular, Node"
+            },
+            {
+                "question": "What is a common way to shorten the response object's name inside middleware?",
+                "hint": "It has the same abbreviation as \"resolution\"",
+                "answer": "res"
+            },
+            {
+                "question": "What is the keyword to include reusuable templates in pug? ",
+                "hint": "to make longer!",
+                "answer": "extend"
+            },
+            {
+                "question": "What did Jade the HTML templating langauge change its name to?",
+                "hint": "It's like a dog!",
+                "answer": "pug"
+            }
+        ]
+    }
+}
